@@ -5,3 +5,5 @@ makeover monday: Wine production
 1) data
 2) Excel analysis
 3) Python
+
+![](https://github.com/jkoo9/wine-production/blob/master/images/Wine-%20production%20-%20pivot%201.png)
