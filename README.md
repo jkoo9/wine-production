@@ -27,6 +27,7 @@ YoY 2012-2015 data:
 Focusing in on South America, I decided to expand on the countries that made up SA and see who was contributing to the big 2016 decrease.
 
 ![] (https://github.com/jkoo9/wine-production/blob/master/images/SA%20countries%20win%20prod%202015_16%20yoy.png)
+
 Looks like all the countries significantly decreased with Brazil leading the pack. 
 So now I'm thinking...what type of factors can cause decreases in production?
 
