@@ -19,6 +19,7 @@ From the data that was provided, I further categorized the countries into region
 Looking at the YoY absolute numbers and the percentages it look like South America was the biggest contributor to the world wide decrease in production in forecast. There were minor decreases in Europe and Asia but SA was by far the biggest. However, looking at the 2012-2015 data, it doesn't look like there is any explicit trend in terms of annual production.
 
 YoY 2012-2015 data:
+
 ![](https://github.com/jkoo9/wine-production/blob/master/images/Win%20production%202012-2015%20YoY%20.png)
 
 
